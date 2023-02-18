@@ -58,3 +58,4 @@ const arr1 = [1, 222, 2, 24, 5, 6, 27, 228, 9, 10];
 
 arr1.sort((a, b) => a - b);
 console.log(arr1);
+console.log(cdsceds);
